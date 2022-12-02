@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.hafe-wide {
+    width: 50%;
+    padding: 31px 0;
+}
+
+.container {
+    display: flex;
+    margin: 0 100px;
+}
+
+.hero img {
+    width: 77%;
+}
+
+.hafe-wide h2 {
+    font-size: 63px;
+    margin: 0;
+}
+
+.hafe-wide h2 span {
+    color: #fb974c;
+}
+
+.hafe-wide p {
+    font-size: 14px;
+    width: 80%;
+    margin-top: 27px;
+}
+
+.hafe-wide.left {
+    margin-top: 79px;
+}
+
+a.btu-class {
+    background: linear-gradient(to right, #fb964b 0%, #fe492e 100%);
+    font-size: 19px;
+    padding: 10px 21px;
+    border-radius: 50px;
+    margin-top: 46px;
+    display: inline-block;
+    text-decoration: none;
+    color: #ffff;
+}
+
+
+.bg-area{
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;background-size: cover;
+}
+
+.hero.sec img {
+    width: 55%;
+}
+
+p.about {
+    font-size: 17px;
+    margin: 0 0 51px 0;
+}
+
+.hafe-wide.left h3 {
+    font-size: 61px;
+    color: #707070;
+}
+
+section.recipece-area h3 {
+    text-align: center;
+    font-size: 28px;
+    margin-top: 78px;
+}
+
+section.recipece-area>p {
+    font-size: 16px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+.hafe-wide.rece {
+    margin: 0 67px;
+    padding: 16px;
+    box-shadow: 0 0 12px #00000045;
+    border-radius: 22px;
+}
+
+.image img {
+    width: 100%;
+    height: 237px;
+}
+
+.hafe-wide.rece h5 {
+    font-size: 17px;
+    margin: 0;
+    font-weight: 600;
+    margin-top: 7px;
+}
+
+.hafe-wide.rece p {
+    margin: 14px 0;
+}
+
+section.recipece-area {
+    padding: 100px 0;
+}
+
+.three-apt {
+    width: 33.3%;
+    text-align: center;
+}
+
+
+
+section.social-link .container {
+    box-shadow: 0 0 12px #0000003b;
+    border-radius: 9px;
+}
+
+.three-apt h1 {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.three-apt p {
+    font-size: 15px;
+}
+
+.cont {
+    text-align: center;
+    background: #0b1652;
+    padding: 30px 0;
+}
+
+.cont h3 span {
+    color: #ca9e0d;
+}
+
+.cont h3 {
+    color: #fff;
+    font-size: 25px;
+}
+
+.cont p {
+    color: #fff;
+}
+
+section.footer {
+    margin-top: 74px;
+}
